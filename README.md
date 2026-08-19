@@ -7,7 +7,7 @@ The project uses Dask for large-scale data processing, DVC for reproducibility, 
 Analysis On Map: 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93dabcb6-5f51-4389-b189-875933671c80" width="70%" alt="Map" />
-  <img src="https://github.com/user-attachments/assets/e3556edc-5865-48cb-aa41-1d33992b5492" width="30%" alt="Map Legend" />
+  <img src="https://github.com/user-attachments/assets/e3556edc-5865-48cb-aa41-1d33992b5492" width="25%" alt="Map Legend" />
 </p>
 
 ## Project workflow
