@@ -10,6 +10,8 @@ Analysis On Map:
   <img src="https://github.com/user-attachments/assets/c073da09-4720-46fa-ae58-a6e41327b0f4" width="28%" alt="Map Legend" />
 </p>
 
+Demo Video: https://github.com/Adityaaatwit/nyc-taxi-demand-prediction/releases/download/v1.0.0/demo_taxi_demand.mp4
+
 ## Project workflow
 
 ```mermaid
