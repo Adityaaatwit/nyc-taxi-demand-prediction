@@ -1,6 +1,6 @@
 # NYC Taxi Demand Prediction
 
-A local machine-learning project that predicts yellow-taxi pickup demand across 30 New York City regions in 15-minute intervals.
+A machine-learning project that predicts yellow-taxi pickup demand across 30 New York City regions in 15-minute intervals.
 
 The project uses Dask for large-scale data processing, DVC for reproducibility, MLflow for experiment tracking and model registration, MySQL for application data, and Streamlit for the interactive demand map.
 
