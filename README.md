@@ -5,7 +5,11 @@ A local machine-learning project that predicts yellow-taxi pickup demand across 
 The project uses Dask for large-scale data processing, DVC for reproducibility, MLflow for experiment tracking and model registration, MySQL for application data, and Streamlit for the interactive demand map.
 
 Analysis On Map: 
-<img width="1877" height="964" alt="Screenshot 2026-08-19 040855" src="https://github.com/user-attachments/assets/4c6ae477-c2bd-4a4e-8e4c-a5998d7ff78b" /> 
+<p align="center">
+  <img width="1877" height="964" alt="Screenshot 2026-08-19 040855" src="https://github.com/user-attachments/assets/93dabcb6-5f51-4389-b189-875933671c80" /> width="68%" alt="Map" />
+  <img width="738" height="915" alt="Screenshot 2026-08-19 042338" src="https://github.com/user-attachments/assets/e3556edc-5865-48cb-aa41-1d33992b5492" />
+ width="30%" alt="Map Legend" />
+</p>
 
 
 ## Project workflow
